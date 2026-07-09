@@ -1,6 +1,6 @@
 # Vyacheslav Egorov
 
-Engineering lead & full-stack engineer — **Python · TypeScript · Ruby · Rust**
+Engineering lead & full-stack engineer — **Python · TypeScript · Ruby · Rust · Go**
 
 ## What I build
 
