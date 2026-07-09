@@ -10,6 +10,8 @@ Head of Development at [MillionAgents](https://millionagents.com) — MA.direct,
 - 🎲 **[Taloria RPG](https://github.com/egor0v/taloria-rpg)** — cooperative online RPG with an LLM game master → [taloria.ru](https://taloria.ru)
 - 📈 **Aperture** — algorithmic-trading platform: Rust engine compiled to native / Python (PyO3) / WASM with bit-exact backtest/live parity *(private)*
 - 🤖 **AI/LLM in production** — RAG knowledge bases, proposal-automation agents, custom MCP servers, AI-driven E2E testing (Playwright MCP)
+- 🔧 **[BMW Diag Cap](https://github.com/egor0v/bmw-diag-cap)** — wireless K-line diagnostic tool for classic BMWs: atopile hardware + ESP32-S3 firmware
+- 🔌 **[E32 wiring graph](https://github.com/egor0v/e32-wiring-graph)** — scanned 470-page wiring manual digitized into a traceable graph (CV + VLM, human-in-the-loop)
 
 ## Stack
 
