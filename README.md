@@ -2,8 +2,6 @@
 
 Engineering lead & full-stack engineer — **Python · TypeScript · Ruby · Rust**
 
-Head of Development at [MillionAgents](https://millionagents.com) — MA.direct, a SaaS platform for retail field audit: tens of thousands of field agents, millions of store reports per month, a ClickHouse analytics loop with billion-row tables.
-
 ## What I build
 
 - 🏘 **[Village OS](https://github.com/egor0v/village-os-showcase)** — multi-tenant SaaS for managing residential communities. In production, piloted in a real village → [uk.village-os.ru](https://uk.village-os.ru)
