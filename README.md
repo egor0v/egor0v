@@ -19,4 +19,4 @@ Head of Development at [MillionAgents](https://millionagents.com) — MA.direct,
 
 ## Contact
 
-Telegram [@egorovslava](https://t.me/egorovslava) · slava.eg@yandex.ru
+Telegram [@egorovslava](https://t.me/egorovslava) · slava.eg099@gmail.com
